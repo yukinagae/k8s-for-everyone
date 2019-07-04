@@ -1,2 +1,2 @@
-# minna-no-k8s
+# k8s-for-everyone
 みんなのDocker/Kubernetes
