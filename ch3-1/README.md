@@ -1,20 +1,4 @@
-# k8s-for-everyone
-
-みんなのDocker/Kubernetesを試すrepository
-
-## Requirements
-
-- docker for mac（※kubernetes + kubectl はすでに含まれている）
-
-## こんな感じ
-
-基本的に以下のように各chapterにREADME.mdを配置し、使い方やコマンドなどを記載する。
-
-```text
-[ch3-1（※chapter3の1）]
-├── deployment.yaml
-└── service.yaml
-```
+# Usage
 
 deployment
 
